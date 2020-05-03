@@ -1,0 +1,11 @@
+discord.py
+aiohttp
+websockets
+chardet
+config
+discord.ext
+commands
+discord.util
+get
+youtube_dl
+os
